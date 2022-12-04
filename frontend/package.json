@@ -11,7 +11,7 @@
     "@fortawesome/fontawesome-free": "^5.14.0",
     "buefy": "^0.9.3",
     "core-js": "^3.6.5",
-    "html2plaintext": "^2.1.2",
+    "html2plaintext": "^2.1.4",
     "jexcel": "^4.4.1",
     "vue": "^2.6.11",
     "vue-monaco": "^1.2.1",
