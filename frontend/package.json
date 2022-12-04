@@ -11,15 +11,20 @@
     "@fortawesome/fontawesome-free": "^5.14.0",
     "buefy": "^0.9.3",
     "core-js": "^3.6.5",
-    "html2plaintext": "^2.1.2",
+  <<<<<<< dependabot/npm_and_yarn/frontend/nth-check-and-html2plaintext--removed
+    "html2plaintext": "^2.1.4",
     "jexcel": "^4.4.1",
+  =======
+    "html2plaintext": "^2.1.2",
+    "jexcel": "^4.6.1",
+  >>>>>>> master
     "vue": "^2.6.11",
     "vue-monaco": "^1.2.1",
     "vue-splitpane": "^1.0.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~5.0.8",
     "@vue/cli-service": "~5.0.8",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
