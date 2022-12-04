@@ -12,7 +12,7 @@
     "buefy": "^0.9.3",
     "core-js": "^3.6.5",
     "html2plaintext": "^2.1.2",
-    "jexcel": "^4.4.1",
+    "jexcel": "^4.6.1",
     "vue": "^2.6.11",
     "vue-monaco": "^1.2.1",
     "vue-splitpane": "^1.0.6"
